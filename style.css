@@ -54,14 +54,22 @@ button{
     border-radius: 8px;
     padding: 5px 20px;
 }
+.section2{
+    margin: 50px;
+    text-align: center;
+}
 .h2title{
-    font-size: 32px;
+    font-size: 36px;
     font-weight: bolder;
     color: #1f2937;
-    text-align: center;
+    margin: 50px;
 }
 .boxes{
     display: flex;
+    font-size: 18px;
+    color: #1f2937;
+    justify-content: center;
+    gap: 40px;
 }
 .square{
     color: white;

@@ -9,12 +9,36 @@
 .headerbar{
     display: flex;
     justify-content: space-between;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 10px;
 }
 ul{
     display: flex;
     list-style: none;
+    gap: 10px;
 }
 a{
     text-decoration: none;
-    color: white;
+    color: #e5e7eb;
+}
+.title{
+    font-size: 48px;
+    font-weight: bold;
+    color: #f9faf8;
+}
+.sub{
+    font-size: 18px;
+    color: #e5e7eb;
+}
+.logo{
+    font-size: 24px;
+    color: #f9faf8;
+}
+.hero{
+    display: flex;
+    margin: 100px;
+}
+img{
+    max-height: 200px;
 }

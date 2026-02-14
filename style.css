@@ -98,3 +98,21 @@ button{
     font-weight: bold;
     align-self: flex-end;
 }
+.CTA{
+    background-color: #3882f6;
+    border-radius: 4px;
+    color: #f9faf8;
+    display: flex;
+    padding: 33px;
+    justify-content: space-around;
+}
+.section4{
+    padding: 88px 111px;
+}
+.CTAbutton{
+    background-color: #3882f6;
+    color: white;
+    border: 2px solid white;
+    border-radius: 8px;
+    padding: 5px 20px;    
+}
